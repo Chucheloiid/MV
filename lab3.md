@@ -210,9 +210,11 @@ I \approx 2.685612550602351
 
 Далее приводятся таблицы результатов, полученные программой.
 
-(Вставить Таблицу 1)
+<img width="708" height="273" alt="{282D9FB8-3042-45AA-97D2-52BE9D200312}" src="https://github.com/user-attachments/assets/6ff287c3-9c45-4f6e-bae1-7e0e538155f3" />
 
-(Вставить Таблицу 2)
+
+<img width="713" height="231" alt="{BF9C36DD-0B15-4C9A-BCC6-E8C420443F9D}" src="https://github.com/user-attachments/assets/c606e408-4e10-4e63-a85a-64f74e5bf208" />
+
 
 ---
 
